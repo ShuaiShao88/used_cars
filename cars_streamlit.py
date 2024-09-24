@@ -1,10 +1,8 @@
-source /home/adminuser/venv/bin/activate
-pip install seaborn
+
 import streamlit as st
 import numpy as np
 import pandas as pd
 import altair as alt
-import seaborn as sns
 import time
 import pydeck as pdk
 import plotly.express as px
