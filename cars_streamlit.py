@@ -5,7 +5,6 @@ import pandas as pd
 import altair as alt
 import time
 import pydeck as pdk
-import plotly.express as px
 
 
 #Loading the data
