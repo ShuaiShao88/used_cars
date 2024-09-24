@@ -1,5 +1,5 @@
 source /home/adminuser/venv/bin/activate
-!pip install seaborn
+pip install seaborn
 import streamlit as st
 import numpy as np
 import pandas as pd
